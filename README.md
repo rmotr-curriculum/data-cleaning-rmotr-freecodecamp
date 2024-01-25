@@ -1,2 +1,8 @@
-# Data Science Course - Class 2
-_This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)_
+
+#### We're in the process of adapting these notebooks into interactive projects in [DataWars](https://www.datawars.io/?utm_source=fccrepo&utm_medium=data-cleaning). Sign up now, it's [completely free](https://www.datawars.io/?utm_source=fccrepo&utm_medium=data-cleaning).
+
+Stay tuned! Have any questions? [Join our Discord](https://discord.gg/DSTe8tY38T)
+
+---
+
+Created by Santiago Basulto. Connect with me on [X](https://x.com/santiagobasulto) or [LinkedIn](https://www.linkedin.com/in/santiagobasulto/)
